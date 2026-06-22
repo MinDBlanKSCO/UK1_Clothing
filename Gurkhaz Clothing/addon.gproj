@@ -1,0 +1,22 @@
+GameProject {
+ ID "GurkhazClothing"
+ GUID "697EDCA75CC2C551"
+ TITLE "Gurkhaz Clothing"
+ Dependencies {
+  "58D0FB3206B6F859" "615CC2D870A39838" "68B60865B7332DD6" "68C574F8B18CDE22" "687D0ACCB444EE69"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}
